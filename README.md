@@ -14,9 +14,10 @@ The Self-Sufficiency Ratio (SSR) evaluates how capable a nation is of meeting it
 ---
 
 ## 🛠️ Tech Stack & Tools
-* **Environment:** Google Colab / Jupyter Notebook
+* **Environment:** Google Colab 
 * **Language:** Python
-* **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`
+* **Libraries:** `pandas`, `numpy`, `matplotlib`
+
 
 ---
 
